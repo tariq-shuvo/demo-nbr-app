@@ -1,0 +1,19 @@
+{
+  "name": "demo-nbr-app",
+  "version": "1.0.0",
+  "description": "This is nbr SDC device connection application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tariqul islam shuvo",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "md5": "^2.3.0",
+    "net": "^1.0.2",
+    "sha256": "^0.2.0",
+    "uuid": "^8.3.2"
+  }
+}
